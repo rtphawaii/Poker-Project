@@ -1,6 +1,6 @@
 # Poker-Project: HomeGame
 
-bare-bones poker game... leave behind the inconvenience of heavy chips, card decks and tedious counting and dealing exercises for a simple game that gets people together.
+bare-bones poker game built around pokerlib... leave behind the inconvenience of heavy chips, card decks and tedious counting and dealing exercises for a simple game that gets people together.
 
 plans:
 1. build
